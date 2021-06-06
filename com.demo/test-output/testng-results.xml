@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9638" started-at="2017-11-19T10:52:59Z" finished-at="2017-11-19T10:53:08Z">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:runner.CheckoutpageRunner@1ed4004b]" name="feature" class="cucumber.api.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="Default test" duration-ms="9638" started-at="2017-11-19T10:52:59Z" finished-at="2017-11-19T10:53:08Z">
+      <class name="runner.CheckoutpageRunner">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:runner.CheckoutpageRunner@1ed4004b]" name="setUpClass" is-config="true" duration-ms="233" started-at="2017-11-19T16:22:59Z" finished-at="2017-11-19T16:22:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:runner.CheckoutpageRunner@1ed4004b]" name="feature" duration-ms="9276" started-at="2017-11-19T16:22:59Z" description="Runs Cucumber Feature" data-provider="features" finished-at="2017-11-19T16:23:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[To test the checkout feature of the website]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:runner.CheckoutpageRunner@1ed4004b]" name="feature" duration-ms="11" started-at="2017-11-19T16:23:08Z" description="Runs Cucumber Feature" data-provider="features" finished-at="2017-11-19T16:23:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[To test the homepage navigation function]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:runner.CheckoutpageRunner@1ed4004b]" name="tearDownClass" is-config="true" duration-ms="17" started-at="2017-11-19T16:23:08Z" finished-at="2017-11-19T16:23:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- runner.CheckoutpageRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

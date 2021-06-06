@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Phantomjs/Phantomjs.iml" filepath="$PROJECT_DIR$/../Phantomjs/Phantomjs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../com.datadriven/com.datadriven.iml" filepath="$PROJECT_DIR$/../com.datadriven/com.datadriven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flipkarttesting.iml" filepath="$PROJECT_DIR$/flipkarttesting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../orangehrmdemo/orangehrmdemo.iml" filepath="$PROJECT_DIR$/../orangehrmdemo/orangehrmdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../project1/project1.iml" filepath="$PROJECT_DIR$/../project1/project1.iml" />
+    </modules>
+  </component>
+</project>
